@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "One sentence on what it is and why it matters.\n\nTools: Python, R, SQL\nOutcome: what you built / learned"
+  },
+  {
+    "objectID": "projects.html#selected-projects",
+    "href": "projects.html#selected-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "One sentence on what it is and why it matters.\n\nTools: Python, R, SQL\nOutcome: what you built / learned"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF Download Word"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Thomas Gavagan",
+    "section": "",
+    "text": "tommy_gavagan1@baylor.edu\nLinkedIn Resume\nMIS + Data Science @ Baylor University.\nInterested in data, systems, and building useful things.\n\n\n\n\n\n\n\nI’m a Baylor student studying Management Information Systems with a minor in Data Science. I enjoy working on projects that sit at the intersection of business and technology.\nRight now I’m focused on: - Learning data tools and programming - Building small, practical projects - Exploring internships and real-world applications"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Thomas Gavagan",
+    "section": "",
+    "text": "I’m a Baylor student studying Management Information Systems with a minor in Data Science. I enjoy working on projects that sit at the intersection of business and technology.\nRight now I’m focused on: - Learning data tools and programming - Building small, practical projects - Exploring internships and real-world applications"
+  }
+]
